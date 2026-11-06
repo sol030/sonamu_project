@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments & uv files
+.venv/
+venv/
+env/
+.uv/
+
+# Data files & Archives
+*.csv
+*.xlsx
+*.zip
+.ipynb_checkpoints/
+
+# IDE configs
+.vscode/
+.idea/
+
+# Custom checkpoints / copies
+*copy.ipynb
